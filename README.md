@@ -3,13 +3,7 @@
 **Data Scientist at Intesa Sanpaolo** · **Visiting Scholar at [Sky Computing Lab](https://sky.cs.berkeley.edu/), UC Berkeley**<br>
 📍 Milan, Italy · Berkeley, CA
 
-I design and build Generative AI solutions, from RAG chatbots and multi-agent LLM systems to document intelligence pipelines that combine OCR and LLMs. I also experiment with LLM fine-tuning and build evaluation pipelines to measure how these systems perform in production, and I've worked on transferring anomaly detection techniques from astrophysics to finance. My background is in Applied Mathematics (MSc, Sapienza University of Rome), and I enjoy turning complex models into tools that solve real problems, iterating on them with real user feedback.
-
-### 🛠️ Tools
-Python (Pandas, NumPy, SciPy, Transformers, LangChain, AutoGen/AG2, Ragas, Unsloth, OpenCV) ·
-SQL (PostgreSQL) · MongoDB · Flask · Docker · Kubernetes · Microsoft Azure · Git
-
-🏅 Microsoft Certified: Azure AI Engineer Associate
+I design and build Generative AI solutions, from RAG chatbots and multi-agent LLM systems to document intelligence pipelines that combine OCR and LLMs. I also experiment with LLM fine-tuning and build evaluation pipelines to measure how these systems perform in production. My background is in Applied Mathematics (MSc, Sapienza University of Rome), and I enjoy turning complex models into tools that solve real problems, iterating on them with real user feedback.
 
 ### 📂 Open-source projects
 - [**ICSC-Spoke3/ATS**](https://github.com/ICSC-Spoke3/ATS): cross-domain transfer of anomaly detection techniques from astrophysics to finance (ICSC Spoke 3)
